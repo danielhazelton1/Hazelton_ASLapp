@@ -1,4 +1,4 @@
-#ASLapp
+# ASLapp
 ## **What is this?**
 
 This is a phone application that helps the user learn ASL (American Sign Language).
